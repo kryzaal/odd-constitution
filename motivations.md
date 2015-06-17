@@ -19,8 +19,7 @@ Les problèmes mis en avant plus haut ne sont pas l'apanage des développeurs. D
 * Les commissaires au compte
 * Les avocats
 
-
-La plupart de ces professions sont dotées d'un ordre, parfois séculaire, visant à régir un minimum les règles de la profession. 
+La plupart de ces professions sont dotées d'un ordre, parfois séculaire, visant à régir un minimum les règles de la profession. Dans les métiers où un risque existe en cas de mauvaises pratiques, l'ordre peut obtenir monopole d'état. C'est le cas des médecins (risque de charlatanisme) ou des officiers publics comme les notaires (risque d'escroquerie). Est-ce cohérent pour les développeurs dans certaines branches ? La question devra sans doute être posée.
 
 Si on prend l'ordre des médecins, il codifie : 
 
@@ -29,11 +28,10 @@ Si on prend l'ordre des médecins, il codifie :
 * Quelles relations doit entretenir le docteur et ses patients
 * Quelles relations doit entretenir un docteur avec l'administration d'un hôpital par exemple
 
-Sur la partie apprentissage, La médecine prend acte que malgré des siècles de recherche, la médecine s'apprend toujours sur le terrain. La formation commence par une dose assez forte de théorie, puis l'apprenti doit observer des médecins pratiquer, puis il peut à son tour prescrire, sous le contrôle stricte d'un médecin, puis il a le droit d'être autonome. 
+Sur la partie apprentissage, la médecine prend acte que malgré des siècles de recherche, la médecine s'apprend toujours sur le terrain. La formation commence par une dose assez forte de théorie (propédeutique), puis l'apprenti doit observer des médecins pratiquer (apprentissage), puis il peut à son tour prescrire, sous le contrôle strict d'un médecin (compagnonnage), puis il a le droit d'être autonome lorsqu'un collège de médecins valide sa formation (maîtrise). 
 
-Dans un hôpital, historiquement les managers n'ont rien à dire aux médecins en terme de pratiques. Les médecins sont maîtres de leur profession. Les managers créent l'environnement dans lequel il est possible de soigner dans de bonnes conditions. 
+Dans un hôpital, historiquement les managers n'ont rien à dire aux médecins en terme de pratiques. Les médecins sont maîtres de leur profession. Les managers créent l'environnement dans lequel il est possible de soigner dans de bonnes conditions.
 
-Un médecin doit se tenir à jour garder son titre : via des formations, des magazines, des conférences. 
+Un médecin doit se tenir à jour pour garder son titre : via des formations, des magazines, des conférences.
 
-Le médecin prête serment sur un code de conduite. 
-
+Le médecin prête serment sur un code de conduite. Le respect de ce code est contrôlé par l'administration de l'ordre (contrôle). En cas de plainte, une instance judiciaire interne se charge de sanctionner ou non le médecin. Il est ainsi jugé en première instance par ses pairs, mais peut toujours faire appel ensuite.
